@@ -7,3 +7,4 @@ cccc
 dddd
 eeee
 bbbb
+(about maven) auto build trigger 11 aug 2021
