@@ -12,3 +12,4 @@ auto build trigger 2
 3
 4
 Test 01
+Test02
